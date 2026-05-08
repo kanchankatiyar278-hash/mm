@@ -1,1 +1,2 @@
 # mm
+print("hello world")
